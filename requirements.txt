@@ -1,0 +1,8 @@
+# requests==2.31.0
+# beautifulsoup4==4.12.3
+# selenium==4.21.0
+# scrapy
+# playwright beautifulsoup4
+
+
+# playwright install chromiumchromium
